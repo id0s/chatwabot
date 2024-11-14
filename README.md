@@ -1,4 +1,8 @@
 # chatwabot
+sesuaikan .env nya
+
+
+
 git clone https://github.com/id0s/chatwabot
 cd chatwabot
 
