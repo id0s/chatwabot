@@ -24,4 +24,7 @@
    ```bash
    git clone https://github.com/id0s/chatwabot.git
    cd chatwabot
-   
+
+2. Install dependensi python  
+   ```bash
+   pip install -r requirements.txt
